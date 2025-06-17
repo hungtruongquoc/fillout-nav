@@ -1,4 +1,7 @@
 # React + Vite
+Deploy Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d53d7909-f0e7-4d45-a6a5-fa24ea48653a/deploy-status)](https://app.netlify.com/projects/luxury-cranachan-85e2db/deploys)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
